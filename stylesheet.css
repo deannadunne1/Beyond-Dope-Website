@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(247, 245, 238);
+}
+
+img {
+    max-width: 110%;
+    height: auto;
+}
+
+.card-panel {
+    text-align: center;
+} 
+
+.nav-content {
+    padding-top: 60px;
+}
+
+.nav-extended {
+    flex: 0 1 auto;
+}
+
+#div1 {
+    margin-top: 30px;
+}
+
+#div2, #div3 {
+    margin: auto;
+    flex: 0 1 auto;
+}
+
+#div2 {
+    padding: 10px;
+}
+
+#donations {
+    color: white;
+    font-size: 1.2rem;
+}
+
+#div3 {
+    margin-top: 20px;
+    width: 550px;
+    background-color: black;
+    flex: 0 1 auto;
+}
+
+#flyer {
+    max-width: 100%;
+    height: auto;
+}
+
+#registration {
+    font-family: 'Karma', serif;
+}
